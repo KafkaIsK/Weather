@@ -57,7 +57,7 @@ main {
     color: #FFF;
     font-size: 32px;
     font-weight: 500;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .location .date {
@@ -67,6 +67,11 @@ main {
 }
 
 .location .time {
+    color: #FFF;
+    font-size: 16px;
+}
+
+.location p {
     color: #FFF;
     font-size: 16px;
 }
